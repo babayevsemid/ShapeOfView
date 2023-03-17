@@ -26,7 +26,7 @@ the old package `com.github.florent37` has been replaced by `io.github.florent37
 //using maven central
 
 dependencies {
-    implementation 'io.github.florent37:shapeofview:1.4.7'
+  implementation 'com.github.babayevsemid:ShapeOfView:1.0.0'
 }
 ```
 
